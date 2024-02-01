@@ -1,6 +1,5 @@
 # Project Title
-
-Brief description or tagline for your project.
+This app takes users messages and returns it back to the user after its has been sent to the blockchain 
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -11,7 +10,7 @@ Brief description or tagline for your project.
 - [License](#license)
 
 ## Introduction
-This is a Smart contract project that allow user send message and get message from the ethereum-sepolia testnet blockchain 
+This is a Smart contract project that allow users send message and get messages from the Ethereum-sepolia testnet blockchain 
 
 ## Features
 
